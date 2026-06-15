@@ -146,35 +146,38 @@ A baixa qualidade dos ajustes lineares indica que outros fatores (econômicos, s
 
 ## 4. Posicionamento e Compromisso Ético
 
-Como engenheira de software e estudiosa de ciência de dados, considero que a produção de evidências quantitativas é um primeiro passo necessário, mas não suficiente. Os dados obtidos neste projeto revelam um fenômeno que não pode ser tratado apenas como estatística.
+Como estudante de Engenharia de Software e pesquisadora em Ciência de Dados, acredito que a produção de evidências quantitativas é um passo fundamental para compreender problemas complexos da sociedade. Entretanto, quando analisamos temas sensíveis, os dados não podem ser tratados apenas como estatísticas: eles representam pessoas, realidades e desafios concretos que exigem atenção.
 
 ### 4.1 Sobre os números de estupro de vulnerável
 
-Os dados oficiais mostram que o **Estupro de Vulnerável** foi o tipo de crime mais frequente no período analisado, representando quase um quarto do total de ocorrências. Essa posição de liderança no ranking não é um acidente amostral – é o reflexo de uma violência estrutural que atinge, sobretudo, crianças e adolescentes.
+Os dados oficiais analisados neste projeto mostram que o **Estupro de Vulnerável** foi o tipo de crime mais frequente no período estudado, representando aproximadamente **24,4%** do total de ocorrências registradas.
 
-De acordo com boletins da Secretaria de Segurança Pública, em 2026 os casos de estupro contra menores de 13 anos chegaram a representar **75,3%** de todos os estupros registrados no estado. Ainda no primeiro trimestre de 2026, foram contabilizadas **2.942 ocorrências** apenas dessa natureza, com crescimento mês a mês (892 em janeiro, 915 em fevereiro, 1.135 em março).
+A magnitude desses números evidencia a relevância do tema dentro do cenário da segurança pública paulista. Mais do que um resultado estatístico, esse indicador aponta para um problema persistente que afeta principalmente crianças e adolescentes e que demanda atenção contínua por parte da sociedade e das instituições responsáveis.
 
-Esses números são alarmantes, mas sabe-se que a subnotificação é grave. A pandemia de Covid-19 escancarou o isolamento de vítimas e a dificuldade de denúncia, e ainda hoje muitos casos não chegam às estatísticas.
+De acordo com boletins da Secretaria de Segurança Pública, em 2026 os casos de estupro contra menores de 13 anos representaram **75,3%** dos estupros registrados no estado. Apenas no primeiro trimestre de 2026 foram contabilizadas **2.942 ocorrências**, com crescimento mês a mês.
 
-### 4.2 Avanço legal e desafios persistentes
+É importante destacar que os registros analisados representam apenas os casos oficialmente notificados. Diversos estudos nacionais e internacionais apontam que crimes dessa natureza apresentam índices relevantes de subnotificação, o que reforça a necessidade de interpretar os dados com cautela e reconhecer suas limitações.
 
-A promulgação da **Lei nº 15.353/2026** representou um avanço civilizatório ao positivar a **presunção absoluta de vulnerabilidade** para menores de 14 anos, vedando argumentos defensivos baseados na suposta “experiência sexual prévia” da vítima. A lei é uma resposta necessária à impunidade histórica.
+### 4.2 Avanços institucionais e desafios persistentes
 
-Todavia, o arcabouço legal não opera no vácuo. Persistem gargalos operacionais graves:
+A promulgação da **Lei nº 15.353/2026** representou um avanço importante ao consolidar a presunção absoluta de vulnerabilidade para menores de 14 anos, fortalecendo a proteção jurídica das vítimas.
 
-- **São Paulo continua sendo o único estado brasileiro sem Delegacias Especializadas de Proteção à Criança e ao Adolescente (DPCA)**, apesar de previsão legal desde 2017.
-- A falta de estrutura especializada compromete o acolhimento humanizado, a coleta de provas e a celeridade investigativa.
-- A sensação de impunidade, alimentada por anos de relativização judicial, não se dissipa com a edição de uma lei – exige mudança cultural e investimento contínuo.
+Ao mesmo tempo, a análise dos dados e da literatura sobre o tema sugere que o enfrentamento da violência sexual contra vulneráveis depende de uma atuação integrada que vai além da legislação. Estruturas especializadas de acolhimento, investigação, prevenção e atendimento às vítimas continuam sendo elementos fundamentais para a efetividade das políticas públicas.
+
+Nesse contexto, desafios relacionados à capacidade institucional, à subnotificação e ao acesso das vítimas aos mecanismos de proteção permanecem relevantes para a compreensão do fenômeno e para a formulação de respostas mais eficazes.
 
 ### 4.3 Responsabilidade da análise de dados
 
-Diante desse contexto, minha posição como profissional de dados é:
+Diante desse cenário, entendo que o papel da Ciência de Dados não deve se limitar à descrição de padrões estatísticos.
 
-1. **Produzir evidência rigorosa e acessível** – os dados devem ser públicos, reproduzíveis e compreensíveis, servindo de base para o debate informado.
-2. **Exigir transparência e efetividade** – não basta que os dados existam; é necessário que o poder público os utilize para gestão, alocação de recursos e avaliação de políticas.
-3. **Cobrar ação coordenada** – a existência de uma lei robusta e de evidências estatísticas inequívocas é condição necessária, mas não suficiente. A ausência de delegacias especializadas e a subnotificação são falhas que a tecnologia pode ajudar a mitigar (integração de bases de saúde, educação e segurança), mas que dependem de decisão política.
+Como profissional da área, considero essencial:
 
-Acredito que o papel da ciência de dados não se limita a descrever a realidade. Quando aplicada a temas sensíveis como a violência sexual contra vulneráveis, ela deve também **instrumentalizar a cobrança por resultados** e contribuir para a construção de políticas públicas baseadas em evidências.
+1. **Produzir análises rigorosas, transparentes e reproduzíveis**, permitindo que resultados sejam verificados e debatidos de forma aberta.
+2. **Transformar dados em informação acessível**, contribuindo para uma compreensão mais clara dos problemas públicos.
+3. **Apoiar decisões baseadas em evidências**, fornecendo subsídios para pesquisadores, gestores públicos e sociedade civil.
+4. **Reconhecer as limitações dos dados**, especialmente em fenômenos marcados por subnotificação e elevada complexidade social.
+
+Acredito que a Ciência de Dados possui um papel relevante na construção de diagnósticos mais precisos da realidade. Quando aplicada a temas sensíveis, como a violência sexual contra crianças e adolescentes, sua contribuição vai além da análise estatística: ela pode auxiliar na identificação de prioridades, na avaliação de políticas públicas e na promoção de discussões fundamentadas em evidências.
 
 ---
 
