@@ -1,0 +1,32 @@
+# ============================================
+# DEPENDENCIAS DO PROJETO - ANALISE CRIMINAL SP
+# ============================================
+# Autor: Isadora Meneghetti
+# Versao: 2.0
+# Projeto: FIAP - Pos Graduacao em Dados
+# Professor: Tiago H Marum
+# Baseado na versao 1.0 desenvolvida em 2025
+
+# Core - Bibliotecas fundamentais
+pandas>=1.5.0        # Manipulacao e analise de dados
+numpy>=1.23.0        # Computacao numerica e arrays
+
+# Visualizacao - Criacao de graficos
+matplotlib>=3.5.0    # Graficos base e personalizacao
+seaborn>=0.12.0      # Graficos estatisticos avancados
+plotly>=5.10.0       # Dashboard interativo
+
+# Machine Learning e Estatistica - Analises avancadas
+scikit-learn>=1.1.0  # Regressao linear e metricas
+scipy>=1.9.0         # Testes estatisticos (Z-score)
+statsmodels>=0.13.0  # Holt-Winters e decomposicao sazonal
+
+# Utilitarios - Leitura e exportacao
+openpyxl>=3.0.0      # Leitura de arquivos Excel
+jupyter>=1.0.0       # Notebook interativo
+pytest>=7.0.0        # Testes unitarios
+python-pptx>=0.6.0   # Geracao de PowerPoint
+
+# Build - Empacotamento
+setuptools>=65.0.0   # Instalacao do projeto
+wheel>=0.40.0        # Distribuicao em pacotes
