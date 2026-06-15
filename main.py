@@ -104,7 +104,7 @@ def main():
     print("="*60)
     print(" Autor: Isadora Meneghetti")
     print(" Versao: 2.0")
-    print(" Contexto: FIAP - Pos Graduacao em Dados")
+    print(" Contexto: FIAP - Matéria de Data Science and Statistical Computing")
     print(" Professor: Tiago H Marum")
     print("="*60)
     
